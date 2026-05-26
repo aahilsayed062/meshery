@@ -19,7 +19,7 @@
     },
     "name": "azure-container-registry",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

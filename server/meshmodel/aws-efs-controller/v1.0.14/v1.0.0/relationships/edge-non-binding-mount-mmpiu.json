@@ -19,7 +19,7 @@
     },
     "name": "aws-efs-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

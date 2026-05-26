@@ -19,7 +19,7 @@
     },
     "name": "aws-vpc-cni",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

@@ -19,7 +19,7 @@
     },
     "name": "aws-sagemaker-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

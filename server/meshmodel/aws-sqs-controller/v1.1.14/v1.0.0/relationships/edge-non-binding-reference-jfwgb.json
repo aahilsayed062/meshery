@@ -19,7 +19,7 @@
     },
     "name": "aws-sqs-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

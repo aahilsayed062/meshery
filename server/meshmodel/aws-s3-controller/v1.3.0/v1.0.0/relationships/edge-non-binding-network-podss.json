@@ -19,7 +19,7 @@
     },
     "name": "aws-s3-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

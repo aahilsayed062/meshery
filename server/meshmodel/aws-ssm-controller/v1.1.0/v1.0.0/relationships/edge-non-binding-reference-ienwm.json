@@ -19,7 +19,7 @@
     },
     "name": "aws-ssm-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

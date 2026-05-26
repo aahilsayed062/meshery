@@ -23,7 +23,7 @@
     },
     "name": "meshery-shapes",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },
@@ -44,7 +44,7 @@
               },
               "name": "*",
               "registrant": {
-                "kind": ""
+                "kind": "github"
               },
               "version": ""
             },
@@ -64,7 +64,7 @@
               },
               "name": "meshery-core",
               "registrant": {
-                "kind": ""
+                "kind": "github"
               },
               "version": ""
             },

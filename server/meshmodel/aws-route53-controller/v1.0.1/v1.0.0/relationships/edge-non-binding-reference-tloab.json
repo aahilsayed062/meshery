@@ -19,7 +19,7 @@
     },
     "name": "aws-route53-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

@@ -19,7 +19,7 @@
     },
     "name": "kube-prometheus-stack",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

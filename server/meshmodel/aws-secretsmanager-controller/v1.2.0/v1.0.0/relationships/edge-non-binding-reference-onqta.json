@@ -19,7 +19,7 @@
     },
     "name": "aws-secretsmanager-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

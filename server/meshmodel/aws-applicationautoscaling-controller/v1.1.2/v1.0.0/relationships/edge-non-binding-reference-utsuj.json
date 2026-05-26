@@ -19,7 +19,7 @@
     },
     "name": "aws-applicationautoscaling-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

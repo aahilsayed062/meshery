@@ -19,7 +19,7 @@
     },
     "name": "azure-managed-identity",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

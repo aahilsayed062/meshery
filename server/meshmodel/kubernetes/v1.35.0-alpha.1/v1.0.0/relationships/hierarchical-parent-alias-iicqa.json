@@ -19,7 +19,7 @@
     },
     "name": "kubernetes",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

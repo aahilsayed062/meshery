@@ -19,7 +19,7 @@
     },
     "name": "aws-mq-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

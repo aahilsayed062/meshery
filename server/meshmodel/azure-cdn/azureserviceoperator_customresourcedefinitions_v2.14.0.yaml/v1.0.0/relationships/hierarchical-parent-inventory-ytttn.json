@@ -19,7 +19,7 @@
     },
     "name": "azure-cdn",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

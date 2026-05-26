@@ -19,7 +19,7 @@
     },
     "name": "azure-db-for-mysql",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

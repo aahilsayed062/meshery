@@ -19,7 +19,7 @@
     },
     "name": "aws-rds-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

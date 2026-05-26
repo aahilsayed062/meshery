@@ -19,7 +19,7 @@
     },
     "name": "aws-opensearchservice-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

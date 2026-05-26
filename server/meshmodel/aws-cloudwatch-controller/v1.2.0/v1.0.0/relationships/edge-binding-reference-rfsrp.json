@@ -19,7 +19,7 @@
     },
     "name": "aws-cloudwatch-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

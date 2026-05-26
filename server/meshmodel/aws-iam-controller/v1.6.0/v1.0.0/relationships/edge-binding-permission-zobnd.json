@@ -19,7 +19,7 @@
     },
     "name": "aws-iam-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

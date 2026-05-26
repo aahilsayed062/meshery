@@ -19,7 +19,7 @@
     },
     "name": "aws-route53resolver-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

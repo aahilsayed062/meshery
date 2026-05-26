@@ -19,7 +19,7 @@
     },
     "name": "aws-sfn-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

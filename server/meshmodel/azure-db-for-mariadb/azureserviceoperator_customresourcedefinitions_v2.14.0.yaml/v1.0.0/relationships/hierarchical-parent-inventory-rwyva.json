@@ -19,7 +19,7 @@
     },
     "name": "azure-db-for-mariadb",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

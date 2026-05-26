@@ -19,7 +19,7 @@
     },
     "name": "aws-sns-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

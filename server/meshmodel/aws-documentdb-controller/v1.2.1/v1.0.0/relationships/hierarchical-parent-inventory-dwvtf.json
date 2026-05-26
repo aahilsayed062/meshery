@@ -19,7 +19,7 @@
     },
     "name": "aws-documentdb-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

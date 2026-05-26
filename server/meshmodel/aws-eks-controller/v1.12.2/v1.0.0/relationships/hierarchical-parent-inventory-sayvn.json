@@ -19,7 +19,7 @@
     },
     "name": "aws-eks-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

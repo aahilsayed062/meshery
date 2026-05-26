@@ -19,7 +19,7 @@
     },
     "name": "aws-memorydb-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

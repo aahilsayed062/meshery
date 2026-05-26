@@ -19,7 +19,7 @@
     },
     "name": "aws-elasticache-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

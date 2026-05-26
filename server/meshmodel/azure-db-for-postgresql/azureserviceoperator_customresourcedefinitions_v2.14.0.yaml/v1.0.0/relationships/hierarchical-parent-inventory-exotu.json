@@ -19,7 +19,7 @@
     },
     "name": "azure-db-for-postgresql",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

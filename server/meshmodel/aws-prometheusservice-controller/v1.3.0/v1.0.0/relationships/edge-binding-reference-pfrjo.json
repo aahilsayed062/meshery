@@ -19,7 +19,7 @@
     },
     "name": "aws-prometheusservice-controller",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },

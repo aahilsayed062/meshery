@@ -19,7 +19,7 @@
     },
     "name": "azure-kubernetes-configuration",
     "registrant": {
-      "kind": ""
+      "kind": "github"
     },
     "version": ""
   },
